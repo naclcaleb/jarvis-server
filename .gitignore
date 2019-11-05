@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+credentials.json
+neural-network/.DS_Store
+*/.DS_Store
+neural-network/training_data/dec_in_data.npy
+neural-network/training_data/dec_tar_data.npy
+neural-network/training_data/enc_in_data.npy
+neural-network/training_data/question_answer_pairs.txt
+neural-network/training_data/question_answer_pairs2.txt
+neural-network/training_data/question_answer_pairs3.txt
